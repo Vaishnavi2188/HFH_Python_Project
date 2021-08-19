@@ -1,8 +1,8 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# HFH_Python_Project
 
-A brief description of what this project does and who it's for
+To check the participants in the list and to retrieve the absentees from batch A and batch B and those who are not from the given batches.
 
 
 ## Demo + Video
@@ -12,14 +12,14 @@ Insert gif or link to demo, or video
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Ashitha Nair
+2. Devika Gopan
 Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+Python
 
   
 ## Working of the project
